@@ -25,7 +25,7 @@ F 3 "~" H 6750 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D2
+L WM_lib:WS2812_2020-LED D2
 U 1 1 5F9C4526
 P 4600 2450
 F 0 "D2" H 4944 2541 50  0000 L CNN
@@ -36,7 +36,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4700 2075 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D3
+L WM_lib:WS2812_2020-LED D3
 U 1 1 5F9C4913
 P 5350 2450
 F 0 "D3" H 5694 2541 50  0000 L CNN
@@ -47,7 +47,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5450 2075 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D4
+L WM_lib:WS2812_2020-LED D4
 U 1 1 5F9C4EA8
 P 6100 2450
 F 0 "D4" H 6444 2541 50  0000 L CNN
@@ -58,7 +58,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6200 2075 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D5
+L WM_lib:WS2812_2020-LED D5
 U 1 1 5F9C8ACD
 P 3850 3400
 F 0 "D5" H 4194 3491 50  0000 L CNN
@@ -69,7 +69,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3950 3025 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D6
+L WM_lib:WS2812_2020-LED D6
 U 1 1 5F9C8AD3
 P 4600 3400
 F 0 "D6" H 4944 3491 50  0000 L CNN
@@ -80,7 +80,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4700 3025 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D7
+L WM_lib:WS2812_2020-LED D7
 U 1 1 5F9C8AD9
 P 5350 3400
 F 0 "D7" H 5694 3491 50  0000 L CNN
@@ -91,7 +91,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5450 3025 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D8
+L WM_lib:WS2812_2020-LED D8
 U 1 1 5F9CA604
 P 6100 3400
 F 0 "D8" H 6444 3491 50  0000 L CNN
@@ -102,7 +102,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6200 3025 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D9
+L WM_lib:WS2812_2020-LED D9
 U 1 1 5F9CA60A
 P 6850 3400
 F 0 "D9" H 7194 3491 50  0000 L CNN
@@ -113,7 +113,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6950 3025 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D10
+L WM_lib:WS2812_2020-LED D10
 U 1 1 5F9CED20
 P 3100 4100
 F 0 "D10" H 3444 4191 50  0000 L CNN
@@ -124,7 +124,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3200 3725 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D11
+L WM_lib:WS2812_2020-LED D11
 U 1 1 5F9CED26
 P 3850 4100
 F 0 "D11" H 4194 4191 50  0000 L CNN
@@ -135,7 +135,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3950 3725 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D12
+L WM_lib:WS2812_2020-LED D12
 U 1 1 5F9CED2C
 P 4600 4100
 F 0 "D12" H 4944 4191 50  0000 L CNN
@@ -146,7 +146,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4700 3725 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D13
+L WM_lib:WS2812_2020-LED D13
 U 1 1 5F9CED32
 P 5350 4100
 F 0 "D13" H 5694 4191 50  0000 L CNN
@@ -157,7 +157,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5450 3725 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D14
+L WM_lib:WS2812_2020-LED D14
 U 1 1 5F9CED38
 P 6100 4100
 F 0 "D14" H 6444 4191 50  0000 L CNN
@@ -168,7 +168,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6200 3725 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D15
+L WM_lib:WS2812_2020-LED D15
 U 1 1 5F9CFB04
 P 6850 4100
 F 0 "D15" H 7194 4191 50  0000 L CNN
@@ -179,7 +179,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6950 3725 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D16
+L WM_lib:WS2812_2020-LED D16
 U 1 1 5F9CFB0A
 P 7600 4100
 F 0 "D16" H 7944 4191 50  0000 L CNN
@@ -397,7 +397,7 @@ Wire Wire Line
 Wire Wire Line
 	9000 3800 9000 3900
 $Comp
-L LED:WS2812B D17
+L WM_lib:WS2812_2020-LED D17
 U 1 1 5FA164ED
 P 2350 4950
 F 0 "D17" H 2694 5041 50  0000 L CNN
@@ -408,7 +408,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2450 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D18
+L WM_lib:WS2812_2020-LED D18
 U 1 1 5FA164F3
 P 3100 4950
 F 0 "D18" H 3444 5041 50  0000 L CNN
@@ -419,7 +419,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3200 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D19
+L WM_lib:WS2812_2020-LED D19
 U 1 1 5FA164F9
 P 3850 4950
 F 0 "D19" H 4194 5041 50  0000 L CNN
@@ -430,7 +430,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3950 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D20
+L WM_lib:WS2812_2020-LED D20
 U 1 1 5FA164FF
 P 4600 4950
 F 0 "D20" H 4944 5041 50  0000 L CNN
@@ -441,7 +441,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4700 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D21
+L WM_lib:WS2812_2020-LED D21
 U 1 1 5FA16505
 P 5350 4950
 F 0 "D21" H 5694 5041 50  0000 L CNN
@@ -452,7 +452,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5450 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D25
+L WM_lib:WS2812_2020-LED D25
 U 1 1 5FA1650B
 P 8350 4950
 F 0 "D25" H 8694 5041 50  0000 L CNN
@@ -463,7 +463,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8450 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D26
+L WM_lib:WS2812_2020-LED D26
 U 1 1 5FA16511
 P 1600 5650
 F 0 "D26" H 1944 5741 50  0000 L CNN
@@ -474,7 +474,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1700 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D27
+L WM_lib:WS2812_2020-LED D27
 U 1 1 5FA16517
 P 2350 5650
 F 0 "D27" H 2694 5741 50  0000 L CNN
@@ -485,7 +485,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2450 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D28
+L WM_lib:WS2812_2020-LED D28
 U 1 1 5FA1651D
 P 3100 5650
 F 0 "D28" H 3444 5741 50  0000 L CNN
@@ -496,7 +496,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3200 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D29
+L WM_lib:WS2812_2020-LED D29
 U 1 1 5FA16523
 P 3850 5650
 F 0 "D29" H 4194 5741 50  0000 L CNN
@@ -507,7 +507,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3950 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D30
+L WM_lib:WS2812_2020-LED D30
 U 1 1 5FA16529
 P 4600 5650
 F 0 "D30" H 4944 5741 50  0000 L CNN
@@ -518,7 +518,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4700 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D31
+L WM_lib:WS2812_2020-LED D31
 U 1 1 5FA1652F
 P 5350 5650
 F 0 "D31" H 5694 5741 50  0000 L CNN
@@ -529,7 +529,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5450 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D22
+L WM_lib:WS2812_2020-LED D22
 U 1 1 5FA18B3B
 P 6100 4950
 F 0 "D22" H 6444 5041 50  0000 L CNN
@@ -540,7 +540,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6200 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D23
+L WM_lib:WS2812_2020-LED D23
 U 1 1 5FA18B41
 P 6850 4950
 F 0 "D23" H 7194 5041 50  0000 L CNN
@@ -551,7 +551,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6950 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D24
+L WM_lib:WS2812_2020-LED D24
 U 1 1 5FA18B47
 P 7600 4950
 F 0 "D24" H 7944 5041 50  0000 L CNN
@@ -562,7 +562,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7700 4575 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D32
+L WM_lib:WS2812_2020-LED D32
 U 1 1 5FA1A70C
 P 6100 5650
 F 0 "D32" H 6444 5741 50  0000 L CNN
@@ -711,7 +711,7 @@ Wire Wire Line
 Text GLabel 6300 2150 2    50   Input ~ 0
 +5V
 $Comp
-L LED:WS2812B D1
+L WM_lib:WS2812_2020-LED D1
 U 1 1 5F9C23F8
 P 5350 1700
 F 0 "D1" H 5694 1791 50  0000 L CNN
@@ -908,7 +908,7 @@ Wire Wire Line
 Wire Wire Line
 	7600 5950 6850 5950
 $Comp
-L LED:WS2812B D34
+L WM_lib:WS2812_2020-LED D34
 U 1 1 5FA1A718
 P 7600 5650
 F 0 "D34" H 7944 5741 50  0000 L CNN
@@ -919,7 +919,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7700 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D33
+L WM_lib:WS2812_2020-LED D33
 U 1 1 5FA1A712
 P 6850 5650
 F 0 "D33" H 7194 5741 50  0000 L CNN
@@ -942,7 +942,7 @@ Wire Wire Line
 Wire Wire Line
 	1200 5300 8850 5300
 $Comp
-L LED:WS2812B D36
+L WM_lib:WS2812_2020-LED D36
 U 1 1 5FBE0140
 P 9100 5650
 F 0 "D36" H 9444 5741 50  0000 L CNN
@@ -953,7 +953,7 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9200 5275 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D35
+L WM_lib:WS2812_2020-LED D35
 U 1 1 5FBE0146
 P 8350 5650
 F 0 "D35" H 8694 5741 50  0000 L CNN
